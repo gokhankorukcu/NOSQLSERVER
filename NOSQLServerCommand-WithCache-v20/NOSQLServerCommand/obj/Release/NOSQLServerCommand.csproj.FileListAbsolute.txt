@@ -8,3 +8,9 @@ C:\Users\Gokhan\Desktop\NOSQLServerCommand-WithCache\NOSQLServerCommand\bin\Rele
 C:\Users\Gokhan\Desktop\NOSQLServerCommand-WithCache\NOSQLServerCommand\obj\Release\NOSQLServerCommand.csprojResolveAssemblyReference.cache
 C:\Users\Gokhan\Desktop\NOSQLServerCommand-WithCache\NOSQLServerCommand\obj\Release\NOSQLServerCommand.dll
 C:\Users\Gokhan\Desktop\NOSQLServerCommand-WithCache\NOSQLServerCommand\obj\Release\NOSQLServerCommand.pdb
+C:\Users\gokhan\Desktop\github-repos\NOSQLSERVER\NOSQLServerCommand-WithCache-v20\NOSQLServerCommand\bin\Release\NOSQLServerCommand.dll
+C:\Users\gokhan\Desktop\github-repos\NOSQLSERVER\NOSQLServerCommand-WithCache-v20\NOSQLServerCommand\bin\Release\NOSQLServerCommand.pdb
+C:\Users\gokhan\Desktop\github-repos\NOSQLSERVER\NOSQLServerCommand-WithCache-v20\NOSQLServerCommand\obj\Release\NOSQLServerCommand.csprojAssemblyReference.cache
+C:\Users\gokhan\Desktop\github-repos\NOSQLSERVER\NOSQLServerCommand-WithCache-v20\NOSQLServerCommand\obj\Release\NOSQLServerCommand.csproj.CoreCompileInputs.cache
+C:\Users\gokhan\Desktop\github-repos\NOSQLSERVER\NOSQLServerCommand-WithCache-v20\NOSQLServerCommand\obj\Release\NOSQLServerCommand.dll
+C:\Users\gokhan\Desktop\github-repos\NOSQLSERVER\NOSQLServerCommand-WithCache-v20\NOSQLServerCommand\obj\Release\NOSQLServerCommand.pdb
