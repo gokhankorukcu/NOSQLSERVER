@@ -32,8 +32,6 @@ Then your result will be incorrect!
 
 * If electricity cuts when NOSQLServer runs, you can repair your databases after electricity returns if necessary. (If necessary program will inform you when server starts up. If you select to repair database, repairing process may be take a long time so be sure your computer plugged in to UPS)
 
-* Your program's file is obfuscated against unauthorized modifications.
-
 STRUCTURE OF config.ini
 ----------------------------------------------------------------------------------
 [GENERAL]
