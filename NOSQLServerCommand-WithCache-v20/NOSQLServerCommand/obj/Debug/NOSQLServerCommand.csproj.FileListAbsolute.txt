@@ -1,0 +1,10 @@
+c:\users\gokhan\desktop\NOSQLServerCommand\NOSQLServerCommand\bin\Debug\NOSQLServerCommand.dll
+c:\users\gokhan\desktop\NOSQLServerCommand\NOSQLServerCommand\bin\Debug\NOSQLServerCommand.pdb
+c:\users\gokhan\desktop\NOSQLServerCommand\NOSQLServerCommand\obj\Debug\NOSQLServerCommand.dll
+c:\users\gokhan\desktop\NOSQLServerCommand\NOSQLServerCommand\obj\Debug\NOSQLServerCommand.pdb
+C:\Users\Gokhan\Desktop\NOSQLServerCommand\NOSQLServerCommand\obj\Debug\NOSQLServerCommand.csprojResolveAssemblyReference.cache
+C:\Users\Gokhan\Desktop\NOSQLServerCommand-WithCache\NOSQLServerCommand\bin\Debug\NOSQLServerCommand.dll
+C:\Users\Gokhan\Desktop\NOSQLServerCommand-WithCache\NOSQLServerCommand\bin\Debug\NOSQLServerCommand.pdb
+C:\Users\Gokhan\Desktop\NOSQLServerCommand-WithCache\NOSQLServerCommand\obj\Debug\NOSQLServerCommand.csprojResolveAssemblyReference.cache
+C:\Users\Gokhan\Desktop\NOSQLServerCommand-WithCache\NOSQLServerCommand\obj\Debug\NOSQLServerCommand.dll
+C:\Users\Gokhan\Desktop\NOSQLServerCommand-WithCache\NOSQLServerCommand\obj\Debug\NOSQLServerCommand.pdb
