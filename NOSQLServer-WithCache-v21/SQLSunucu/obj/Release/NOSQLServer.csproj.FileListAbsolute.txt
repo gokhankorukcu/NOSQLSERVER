@@ -1,0 +1,14 @@
+C:\Users\gokhan\Desktop\github-repos\NOSQLSERVER\NOSQLServer-WithCache-v21\SQLSunucu\bin\Release\NOSQLServer.exe.config
+C:\Users\gokhan\Desktop\github-repos\NOSQLSERVER\NOSQLServer-WithCache-v21\SQLSunucu\bin\Release\NOSQLServer.exe
+C:\Users\gokhan\Desktop\github-repos\NOSQLSERVER\NOSQLServer-WithCache-v21\SQLSunucu\bin\Release\NOSQLServer.pdb
+C:\Users\gokhan\Desktop\github-repos\NOSQLSERVER\NOSQLServer-WithCache-v21\SQLSunucu\bin\Release\System.Data.SQLite.pdb
+C:\Users\gokhan\Desktop\github-repos\NOSQLSERVER\NOSQLServer-WithCache-v21\SQLSunucu\obj\Release\NOSQLServer.csprojAssemblyReference.cache
+C:\Users\gokhan\Desktop\github-repos\NOSQLSERVER\NOSQLServer-WithCache-v21\SQLSunucu\obj\Release\SQLSunucu.AboutBox1.resources
+C:\Users\gokhan\Desktop\github-repos\NOSQLSERVER\NOSQLServer-WithCache-v21\SQLSunucu\obj\Release\SQLSunucu.create_indexes.resources
+C:\Users\gokhan\Desktop\github-repos\NOSQLSERVER\NOSQLServer-WithCache-v21\SQLSunucu\obj\Release\SQLSunucu.Form1.resources
+C:\Users\gokhan\Desktop\github-repos\NOSQLSERVER\NOSQLServer-WithCache-v21\SQLSunucu\obj\Release\SQLSunucu.Properties.Resources.resources
+C:\Users\gokhan\Desktop\github-repos\NOSQLSERVER\NOSQLServer-WithCache-v21\SQLSunucu\obj\Release\NOSQLServer.csproj.GenerateResource.cache
+C:\Users\gokhan\Desktop\github-repos\NOSQLSERVER\NOSQLServer-WithCache-v21\SQLSunucu\obj\Release\NOSQLServer.csproj.CoreCompileInputs.cache
+C:\Users\gokhan\Desktop\github-repos\NOSQLSERVER\NOSQLServer-WithCache-v21\SQLSunucu\obj\Release\NOSQLServer.csproj.CopyComplete
+C:\Users\gokhan\Desktop\github-repos\NOSQLSERVER\NOSQLServer-WithCache-v21\SQLSunucu\obj\Release\NOSQLServer.exe
+C:\Users\gokhan\Desktop\github-repos\NOSQLSERVER\NOSQLServer-WithCache-v21\SQLSunucu\obj\Release\NOSQLServer.pdb
