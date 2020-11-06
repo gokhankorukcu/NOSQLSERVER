@@ -52,6 +52,6 @@ You have to run NOSQLServer with Administrator rights. (Right click NOSQLServer.
 
 You can communicate with me via my e-mail : gokhankorukcu1980@gmail.com
 
-Project Homepage : http://www.sqlmachine.com
+Project Homepage : http://www.nosqlserver.com
 
 
