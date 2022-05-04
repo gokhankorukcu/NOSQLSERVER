@@ -50,8 +50,6 @@ NOTE
 ----------------------------------------------------------------------------------
 You have to run NOSQLServer with Administrator rights. (Right click NOSQLServer.exe and click "Run as administrator")
 
-You can communicate with me via my e-mail : gokhankorukcu1980@gmail.com
-
-Project Homepage : http://www.nosqlserver.com
+You can communicate with me via my e-mail : g_korukcu@hotmail.com
 
 
